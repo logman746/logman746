@@ -1,0 +1,1646 @@
+#EXTM3U
+#EXTINF:1 ,1+1 Спорт (720p)
+#EXTGRP:Ukraniya
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:1 ,24 Канал (1080p)  (News)
+#EXTGRP:Ukraniya
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:1 ,34 канал (576p)
+#EXTGRP:Ukraniya
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:1 ,4 канал (1080p)
+#EXTGRP:Ukraniya
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+
+#EXTINF:1 ,4 канал (576p)
+#EXTGRP:Ukraniya
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+
+#EXTINF:1 ,4 канал (720p)
+#EXTGRP:Ukraniya
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+
+#EXTINF:1 ,ATR (504p)
+#EXTGRP:Ukraniya
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:1 ,GIT (720p)
+#EXTGRP:Ukraniya
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:1 ,GTV (240p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-240p/playlist.m3u8
+#EXTINF:1 ,GTV (480p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:1 ,GTV (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:1 ,HDFashion & LifeStyle (1080p)  (Lifestyle)
+#EXTGRP:Ukraniya
+http://95.67.47.114/hls/hdfashion_ua.m3u8
+#EXTINF:1 ,IHTEP (576p)
+#EXTGRP:Ukraniya
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:1 ,Iнтер (576p)
+#EXTGRP:Ukraniya
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:1 ,K1 (512p)
+#EXTGRP:Ukraniya
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+
+#EXTINF:1 ,Lale (504p)  (Kids)
+#EXTGRP:Ukraniya
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:1 ,M1 (1080p)  (Music)
+#EXTGRP:Ukraniya
+http://live.m2.tv/hls2/stream.m3u8
+
+#EXTINF:1 ,M2 (720p)  (Music)
+#EXTGRP:Ukraniya
+http://live.m2.tv/hls3/stream.m3u8
+
+
+
+#EXTINF:1 ,Odessa Fashion (720p)  (Lifestyle)
+#EXTGRP:Ukraniya
+https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8
+
+
+#EXTINF:1 ,Skrypin.ua (1080p) [Not 24/7]
+#EXTGRP:Ukraniya
+https://open-cdn.lanet.tv/live/1008.m3u8
+
+#EXTINF:1 ,TV5 (Запорожье) (360p)
+#EXTGRP:Ukraniya
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+
+#EXTINF:1 ,UATV (720p)
+#EXTGRP:Ukraniya
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+
+
+#EXTINF:1 ,Z (Запорожье) (1080p)
+#EXTGRP:Ukraniya
+https://stream.ztv.zp.ua/hls/live.m3u8
+
+#EXTINF:1 ,А1 (Одесса) (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/a1od/a1od-abr/playlist.m3u8
+
+
+#EXTINF:1 ,Архат ТВ (720p)
+#EXTGRP:Ukraniya
+https://arhat.tv/public/720p/index.m3u8
+
+#EXTINF:1 ,Балта ТВ (768p)
+#EXTGRP:Ukraniya
+http://194.50.51.34/playlist.m3u8
+
+#EXTINF:1 ,Глас (576p)
+#EXTGRP:Ukraniya
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+
+#EXTINF:1 ,Думская ТВ (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8
+
+
+#EXTINF:1 ,Интер (512p)
+#EXTGRP:Ukraniya
+http://109.68.40.67/img/inter_2/index.m3u8
+
+#EXTINF:1 ,ИРТ (Днепр) (576p)
+#EXTGRP:Ukraniya
+http://91.193.128.233:1935/live/irt.stream/playlist.m3u8
+
+#EXTINF:1 ,Круг (576p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+
+#EXTINF:1 ,Ланет.TV (486p)
+#EXTGRP:Ukraniya
+http://kiev1-cdn.lanet.tv/live/1008.m3u8
+
+#EXTINF:1 ,Надия/Новый канал (576p)
+#EXTGRP:Ukraniya
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
+#EXTINF:1 ,Надія (720p)
+#EXTGRP:Ukraniya
+https://stream.hope.ua/hopeua/live_1/playlist.m3u8
+
+#EXTINF:1 ,НТК (1080p)
+#EXTGRP:Ukraniya
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:1 ,НТН (576p)
+#EXTGRP:Ukraniya
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
+
+
+
+#EXTINF:1 ,Орбіта ТВ [Not 24/7]
+#EXTGRP:Ukraniya
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:1 ,ОТВ (Днепр) (576p)
+#EXTGRP:Ukraniya
+http://91.193.128.233:1935/live/otv.stream_576p/playlist.m3u8
+
+#EXTINF:1 ,Первый городской (Кривой Рог) (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr/playlist.m3u8
+
+#EXTINF:1 ,Первый Городской (Кривой Рог) (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr/playlist.m3u8
+
+#EXTINF:1 ,Первый городской (Одесса) (1080p)
+#EXTGRP:Ukraniya
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+
+#EXTINF:1 ,Первый Городской (Одесса) (576p)
+#EXTGRP:Ukraniya
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+
+#EXTINF:1 ,Первый Городской (Одесса) (504p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:1 ,Первый Деловой (720p)
+#EXTGRP:Ukraniya
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+
+#EXTINF:1 ,Первый Деловой (576p)
+#EXTGRP:Ukraniya
+http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+
+#EXTINF:1 ,Перший Діловий (720p)
+#EXTGRP:Ukraniya
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+
+#EXTINF:1 ,Перший Діловий (576p)
+#EXTGRP:Ukraniya
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+
+#EXTINF:1 ,Перший Західний (Львов) (480p)
+#EXTGRP:Ukraniya
+http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
+
+#EXTINF:1 ,Перший незалежний (1080p)  (News)
+#EXTGRP:Ukraniya
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+#EXTINF:1 ,ПравдаТУТ (720p)
+#EXTGRP:Ukraniya
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:1 ,Прямий (720p)
+#EXTGRP:Ukraniya
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+
+#EXTINF:1 ,Прямий (576p)
+#EXTGRP:Ukraniya
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+
+
+#EXTINF:1 ,Репортер (720p) [Not 24/7]
+#EXTGRP:Ukraniya
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+
+#EXTINF:1 ,Сварожичи (720p)
+#EXTGRP:Ukraniya
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+
+#EXTINF:1 ,СК 1 (256p)
+#EXTGRP:Ukraniya
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt240p/playlist.m3u8
+
+
+#EXTINF:1 ,ТВА (Чернiвцi) (576p)
+#EXTGRP:Ukraniya
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+
+#EXTINF:1 ,Тис ТВ (480p) [Not 24/7]
+#EXTGRP:Ukraniya
+https://cdn10.live-tv.od.ua:8083/riood/tisod504/playlist.m3u8
+
+#EXTINF:1 ,ТРК Алекс (576p)
+#EXTGRP:Ukraniya
+http://46.46.112.223/live/livestream1.m3u8
+
+#EXTINF:1 ,ТРК Круг (576p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/krugod/krugod/playlist.m3u8
+
+#EXTINF:1 ,ТРК Репортер (480p) [Not 24/7]
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/31chod/31chod-sub/playlist.m3u8
+
+
+
+#EXTINF:1 ,Чернівецький промінь (720p)
+#EXTGRP:Ukraniya
+https://langate.tv/promin/live_720/index.m3u8
+
+
+#EXTINF:1 ,Южная Волна (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/wave/wave-abr/playlist.m3u8
+
+#EXTINF:1 ,Южная Волна ТВ (Одесса) (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/wave/wave-720/playlist.m3u8
+
+#EXTINF:1 ,ЯТБ (576p)
+#EXTGRP:Ukraniya
+http://46.175.163.130/live_yatb/playlist.m3u8
+
+#EXTINF:1 ,Інший (720p)
+#EXTGRP:Ukraniya
+https://cdn1.live-tv.od.ua:8083/ktkod/ktkod/playlist.m3u8
+
+
+
+#EXTINF:-1,beIN SPORTS 1 720p HD Türk
+#EXTGRP:BEIN SPORTS Türkiyə
+http://visionmedaitv.nl:7444/live/2YbvOuQ7nS@fer54DerqAht/XRqt5oR32pFDeSgft@rteThe/67.ts
+#EXTINF:-1,beIN SPORTS 1 432p 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://mvu03.wanicelife.com:8880/SY12B520/XKC4567A/32889?play_token=caWgYemhF9
+#EXTINF:-1,beIN SPORTS 1 720p HD
+#EXTGRP:BEIN SPORTS Türkiyə
+http://mvu03.wanicelife.com:8880/live/SY12B520/XKC4567A/32886.ts
+
+#EXTINF:-1,beIN SPORTS 1 4К HD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.88:80/ronironironi576/OWAyVf150/93392
+#EXTINF:-1,beIN SPORTS 1 FHD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17739
+#EXTINF:-1,beIN SPORTS 1 HD TUR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80//ronironironi576/OWAyVf150/15719
+#EXTINF:-1,beIN SPORTS 2 HD TUR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://mvu03.wanicelife.com:8880/live/SFL143754/F746H267/32888.ts
+#EXTINF:-1,beIN SPORTS 2 HD TUR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://mvu03.wanicelife.com:8880/live/SFL143754/F746H267/32885.ts
+#EXTINF:-1,beIN SPORTS 2 HD Türk 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://143.244.60.17/TR-_BEIN_SPORTS_2_4K/video.m3u8?token=c5bcb716c0acb841482fd92eaadd81d5
+#EXTINF:-1,S Sport HD TUR
+#EXTGRP:idman-Спорт
+http://mvu03.wanicelife.com:8880/live/SY12B520/XKC4567A/32728.ts
+#EXTINF:0,National Geographic
+#EXTGRP:Познавательные
+http://185.32.44.154:80/nationalgeographic/index.m3u8
+#EXTINF:130,Nat Geo Wild 
+#EXTGRP:Познавательные
+http://185.32.44.154/natgeowild/index.m3u8
+#EXTINF:134, Animal Planet
+#EXTGRP:Познавательные
+http://185.32.44.154:80/animalplanet/index.m3u8
+#EXTINF:131, Discovery Channel
+#EXTGRP:Познавательные
+http://185.32.44.154:80/discoverychannel/index.m3u8
+#EXTINF:132, Discovery Science
+#EXTGRP:Познавательные
+http://185.32.44.154:80/discoveryscience/index.m3u8
+#EXTINF:133,Investigation Discovery
+#EXTGRP:Познавательные
+http://185.32.44.154:80/idextra/index.m3u8
+#EXTINF:156, Viasat History
+#EXTGRP:Познавательные
+http://213.172.73.170:8081/nimble_live/1074__ViaSat_History/chunks.m3u8?
+#EXTINF:157, Viasat Explore
+#EXTGRP:Познавательные
+http://213.172.73.170:8081/nimble_live/1149__Viasat_Explore/chunks.m3u8?
+#EXTINF:158, Viasat Nature
+#EXTGRP:Познавательные
+http://185.32.44.154:80/viasatnature/index.m3u8
+#EXTINF:155, History
+#EXTGRP:Познавательные
+http://213.172.73.170:8081/nimble_live/1028__History/chunks.m3u8?
+#EXTINF:123, Paramount Channel 
+#EXTGRP:Кино
+http://185.32.44.154:80/paramountchannel/index.m3u8
+#EXTINF:114,TV XXI
+#EXTGRP:Кино
+http://185.32.44.154:80/tv21/index.m3u8
+#EXTINF:120,Amedia Hit
+#EXTGRP:Кино
+http://185.32.44.154:80/amediahit/index.m3u8
+#EXTINF:120,Amedia Premium
+#EXTGRP:Кино
+http://185.32.44.154:80/AmediaPremium/index.m3u8
+
+#EXTINF:0,idman TV AZ
+#EXTGRP:idman-Спорт
+http://flussonic.azfiber.net:80/AZ-idman/index.m3u8
+#EXTINF:0,CBC Sport HD
+#EXTGRP:idman-Спорт
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
+
+
+#EXTINF:-1,S Sport 
+#EXTGRP:idman-Спорт
+http://visionmedaitv.nl:7444/live/2YbvOuQ7nS@fer54DerqAht/XRqt5oR32pFDeSgft@rteThe/80.ts
+#EXTINF:-1,S Sport 2 HD TUR
+#EXTGRP:idman-Спорт
+http://mvu03.wanicelife.com:8880/SY12B520/XKC4567A/32700?play_token=unrconFEDC
+
+#EXTINF:-1,Матч! Футбол 1
+#EXTGRP:idman-Спорт
+http://flussonic.azfiber.net:80/RU-matchfutbol1/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+#EXTGRP:idman-Спорт
+http://flussonic.azfiber.net:80/RU-matchfutbol2/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 
+#EXTGRP:idman-Спорт
+http://flussonic.azfiber.net:80/RU-matchfutbol3/index.m3u8
+
+
+#EXTINF:-1,TR: EXXEN SPORT 1 HD
+#EXTGRP:EXXEN SPORT
+http://85.203.33.22:80/ronironironi576/OWAyVf150/88662
+#EXTINF:-1,TR: EXXEN SPORT 2 HD
+#EXTGRP:EXXEN SPORT
+http://85.203.33.22:80/ronironironi576/OWAyVf150/88663
+#EXTINF:-1,TR: EXXEN SPORT 3 HD
+#EXTGRP:EXXEN SPORT
+http://85.203.33.22:80/ronironironi576/OWAyVf150/88664
+#EXTINF:-1,beIN SPORTS 2 FHD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17740
+#EXTINF:-1,beIN SPORTS 3 FHD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17741
+#EXTINF:-1,beIN SPORTS 4 FHD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19038
+
+#EXTINF:-1,beIN SPORTS 2 HD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80//ronironironi576/OWAyVf150/15943
+#EXTINF:-1,beIN SPORTS 3 HD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80//ronironironi576/OWAyVf150/6414
+#EXTINF:-1,beIN SPORTS 4 HD TR 
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80//ronironironi576/OWAyVf150/15722
+#EXTINF:-1,beIN SPORTS HABER HD TR
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17896
+
+
+#EXTINF:-1,beIN Sports Max 1 HD TR
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15723
+
+#EXTINF:-1,beIN SPORTS MAX 2 HD TR
+#EXTGRP:BEIN SPORTS Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/29048
+
+#EXTINF:-1,Tivibu Spor HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12755
+#EXTINF:-1,Tivibu Spor 2 HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12756
+#EXTINF:-1,Tivibu Spor 3 HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15736
+#EXTINF:-1,A Spor FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14239
+#EXTGRP:idman-Спорт
+#EXTINF:-1,A Spor TR
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5133
+#EXTINF:-1,Smart Spor FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15732
+#EXTINF:-1,Smart Spor TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5209
+#EXTINF:-1,S Sport FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15733
+
+#EXTINF:-1,Setanta Sport HD 
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/23829
+#EXTINF:-1,Setanta Sports 2 HD 
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10284
+
+
+#EXTINF:-1,beIN SPORTS 1 4K QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/24697
+#EXTINF:-1,beIN SPORTS 1 FHD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22157
+#EXTINF:-1,beIN SPORTS 1 HD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14980
+#EXTINF:-1,beIN SPORTS 1 SD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14981
+#EXTINF:-1,beIN SPORTS 2 4K QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/24696
+#EXTINF:-1,beIN SPORTS 2 FHD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22158
+#EXTINF:-1,beIN SPORTS 2 HD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14982
+#EXTINF:-1,beIN SPORTS 2 SD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14983
+#EXTINF:-1,beIN SPORTS 3 4K QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/24695
+#EXTINF:-1,beIN SPORTS 3 FHD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22159
+#EXTINF:-1,beIN SPORTS 3 HD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14984
+#EXTINF:-1,beIN SPORTS 3 SD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14985
+#EXTINF:-1,beIN SPORTS 4 4K QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/24694
+#EXTINF:-1,beIN SPORTS 4 FHD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22160
+#EXTINF:-1,beIN SPORTS 4 HD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14986
+#EXTINF:-1,beIN SPORTS 4 SD QA
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14987
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14977
+#EXTINF:-1,beIN SPORTS 1 FR
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5522
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14550
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://85.203.33.22:80/ronironironi576/OWAyVf150/3436
+#EXTINF:-1,Sky Bundesliga 1 FHD DE
+http://85.203.33.22:80/ronironironi576/OWAyVf150/7338
+#EXTINF:-1,DAZN Bar 1 FHD DE
+http://85.203.33.22:80/ronironironi576/OWAyVf150/23280
+#EXTINF:-1,DAZN Bar 2 FHD DE
+http://85.203.33.22:80/ronironironi576/OWAyVf150/23281
+
+
+#EXTINF:-1,S Sport 2 FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/71022?play_token=vkUaZeFdRx
+#EXTINF:-1,Sports TV HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5983
+#EXTINF:-1,NBA TV HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19668
+#EXTINF:-1,Eurosport 1 HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15730
+#EXTINF:-1,Eurosport 2 HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15731
+#EXTINF:-1,FB TV HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15728
+#EXTINF:-1,FB TV TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5210
+
+#EXTINF:-1,GS TV HD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/15729
+
+#EXTINF:-1,Dizismart Max HD 
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/73870?play_token=cyYmxthZ6Y
+#EXTINF:-1,beIN SERIES VICE HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19662
+
+#EXTINF:-1,MovieSmart Premium 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12750
+#EXTINF:-1,beIN SERIES Drama HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19660
+#EXTINF:-1,beIN SERIES Sci-Fi HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19661
+#EXTINF:-1,beIN BOX OFFICE 1 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12772
+#EXTINF:-1,beIN BOX OFFICE 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12771
+#EXTINF:-1,beIN BOX OFFICE 3 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12770
+#EXTINF:-1,beIN MOVIES Turk HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/16292
+#EXTINF:-1,beIN MOVIES Action HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12767
+#EXTINF:-1,beIN MOVIES Action 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19559
+#EXTINF:-1,beIN MOVIES Family HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12760
+#EXTINF:-1,beIN MOVIES Premier HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12769
+#EXTINF:-1,beIN MOVIES Stars HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12768
+#EXTINF:-1,MovieSmart Classic HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12743
+#EXTINF:-1,MovieSmart Fest HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19564
+
+
+#EXTINF:-1,MovieSmart Premium HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12753
+#EXTINF:-1,MovieSmart Türk HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19566
+#EXTINF:-1,SALON 1 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5118
+#EXTINF:-1,SALON 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5119
+#EXTINF:-1,SALON 3 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5120
+#EXTINF:-1,Sinema 1001 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19561
+#EXTINF:-1,Sinema Aile HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19562
+#EXTINF:-1,Sinema Aksiyon HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19556
+#EXTINF:-1,Sinema Komedi HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19563
+#EXTINF:-1,Sinema TV HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19565
+#EXTINF:-1,Sinema TV Yerli HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19567
+#EXTINF:-1,YESILCAM HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5132
+#EXTINF:-1,DiziSmart Premium HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/16829
+#EXTINF:-1,YESILCAM F HD TR
+#EXTGRP:Cinema-Türkiyə
+http://mvu03.wanicelife.com:8880/live/SFL143754/F746H267/32711.ts
+#EXTINF:-1,YESILCAM 1 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://mvu03.wanicelife.com:8880/live/SFL143754/F746H267/32742.ts
+#EXTINF:-1,YESILCAM 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5132
+#EXTINF:-1,YESILCAM 3 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://mvu03.wanicelife.com:8880/live/SFL143754/F746H267/33022.ts
+
+
+
+
+#EXTINF:-1,Power TV HD TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14245
+#EXTINF:-1,Semerkand TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5147
+#EXTINF:-1,beIN GURME TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/16293
+#EXTINF:-1,beIN İZ TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/16294
+#EXTINF:-1,TRT 4K TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22852
+
+#EXTINF:-1,TRT 1 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14230
+#EXTINF:-1,TRT 1 HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10008
+#EXTINF:-1,TRT 1 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5121
+#EXTINF:-1,TRT 2 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27124
+#EXTINF:-1,TRT 3 Sport TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27125
+#EXTINF:-1,TRT Haber FHD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14236
+#EXTINF:-1,TRT Haber TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27121
+#EXTINF:-1,TRT Belgesel FHD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14231
+#EXTINF:-1,TRT Belgesel TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5145
+#EXTINF:-1,TRT World HD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17297
+#EXTINF:-1,TRT World TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27537
+#EXTINF:-1,TRT Müzik TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5171
+
+#EXTINF:-1,TRT Avaz TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27122
+#EXTINF:-1,TRT Diyanet TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5156
+#EXTINF:-1,TRT Türk TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17321
+#EXTINF:-1,TRT Spor FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14241
+#EXTINF:-1,TRT Spor TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5122
+#EXTINF:-1,TRT Spor 2 FHD TR
+#EXTGRP:idman-Спорт
+http://85.203.33.22:80/ronironironi576/OWAyVf150/29862
+#EXTINF:-1,Star TV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14223
+#EXTINF:-1,Star TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5126
+#EXTINF:-1,Star TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10009
+#EXTINF:-1,KANAL D FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14222
+#EXTINF:-1,KANAL D TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5124
+#EXTINF:-1,ATV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14221
+#EXTINF:-1,ATV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5125
+#EXTINF:-1,ATV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10010
+#EXTINF:-1,Show TV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14226
+#EXTINF:-1,Show TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5127
+#EXTINF:-1,Show Max TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/28425
+#EXTINF:-1,Show Turk TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10012
+#EXTINF:-1,FOX FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14224
+#EXTINF:-1,FOX TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5128
+#EXTINF:-1,TV8 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14225
+#EXTINF:-1,TV8 HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5129
+#EXTINF:-1,TV 8.5 HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14436
+#EXTINF:-1,TV8 Int TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5154
+#EXTINF:-1,Beyaz TV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14229
+#EXTINF:-1,Beyaz TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5137
+#EXTINF:-1,KANAL 7 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14227
+#EXTINF:-1,KANAL 7 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5131
+#EXTINF:-1,KANAL 7 Avrupa TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18265
+#EXTINF:-1,A Haber FHD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14232
+#EXTINF:-1,A Haber TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5150
+#EXTINF:-1,Habertürk HD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14235
+#EXTINF:-1,CNN TÜRK HD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14234
+#EXTINF:-1,CNN TÜRK TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5149
+#EXTINF:-1,TV 100 HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/28201
+#EXTINF:-1,Ülke TV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14237
+#EXTINF:-1,Ülke TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5144
+#EXTINF:-1,NTV FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14233
+#EXTINF:-1,NTV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5134
+#EXTINF:-1,Bloomberg HT TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18205
+#EXTINF:-1,Discovery Channel FHD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5164
+#EXTINF:-1,Discovery Science FHD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5163
+
+#EXTINF:-1,Investigation Discovery TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27018
+#EXTINF:-1,National Geographic HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5165
+#EXTINF:-1,National Geographic People HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5167
+#EXTINF:-1,National Geographic Wild HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12765
+#EXTINF:-1,National Geographic Wild HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5166
+#EXTINF:-1,DMAX HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/23618
+#EXTINF:-1,Animal Planet HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5152
+#EXTINF:-1,Animal Planet TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/27126
+#EXTINF:-1,BBC Earth TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18330
+#EXTINF:-1,FOX Crime HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18209
+#EXTINF:-1,History HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18329
+#EXTINF:-1,Yaban HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18207
+#EXTINF:-1,TLC TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18208
+
+#EXTINF:-1,Power Türk HD TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14242
+#EXTINF:-1,KRAL TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5112
+#EXTINF:-1,KRAL POP HD TR
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5113
+#EXTINF:-1,Dream Türk TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5142
+#EXTINF:-1,Number One TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/12758
+#EXTINF:-1,Number One Turk HD TR
+#EXTGRP:Musiqi-Музыкальные
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14246
+
+
+
+
+
+#EXTINF:-1,FX HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18210
+#EXTINF:-1,24 TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19673
+#EXTINF:-1,A2 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/16827
+#EXTINF:-1,Akilli TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/22850
+#EXTINF:-1,Arti TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17296
+#EXTINF:-1,beIN MOVIES Action 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19559
+#EXTINF:-1,beIN MOVIES Premier 2 HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19558
+#EXTINF:-1,Euro D TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/10011
+
+#EXTINF:-1,Kon TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17880
+#EXTINF:-1,KRT HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/26885
+
+#EXTINF:-1,MC EU TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17304
+#EXTINF:-1,Rumeli TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/19135
+#EXTINF:-1,Tele 1 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/17361
+#EXTINF:-1,Teve 2 HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14228
+#EXTINF:-1,Teve 2 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5146
+#EXTINF:-1,TGRT Haber TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/18206
+#EXTINF:-1,TV 24 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/28200
+#EXTINF:-1,TV 360 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5114
+#EXTINF:-1,Tvnet HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/14238
+#EXTINF:-1,Ulusal Kanal TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/5117
+
+#EXTINF:-1,ENO Vizyon HD TR
+#EXTGRP:Cinema-Türkiyə
+http://85.203.33.22:80/ronironironi576/OWAyVf150/34786
+#EXTINF:-1,Akit TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37127
+#EXTINF:-1,TLC HD TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37128
+#EXTINF:-1,UçanKus TV HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37129
+#EXTINF:-1,A News HD TR
+#EXTGRP:Хəbərlər-Новости
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37369
+#EXTINF:-1,A Para HD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37370
+#EXTINF:-1,Anadolu Dernek TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37371
+#EXTINF:-1,Beykent TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37372
+#EXTINF:-1,Cem TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37373
+#EXTINF:-1,Dream TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37374
+#EXTINF:-1,DRT Denizli TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37375
+#EXTINF:-1,Ekotürk TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37376
+#EXTINF:-1,EuroStar TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37377
+#EXTINF:-1,Kanal 33 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37378
+#EXTINF:-1,Kanal Avrupa TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37379
+#EXTINF:-1,KANAL B TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37380
+#EXTINF:-1,On 4 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37381
+#EXTINF:-1,Park TV TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37382
+
+
+#EXTINF:-1,TGRT Belgesel TR
+#EXTGRP:BELGESEL
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37385
+#EXTINF:-1,TGRT EU TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37386
+#EXTINF:-1,TV 4 FHD TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37393
+#EXTINF:-1,TV 5 TR
+#EXTGRP:Türkiyə-Турция
+http://85.203.33.22:80/ronironironi576/OWAyVf150/37394
+
+#EXTINF:-1,INTER AZ HD
+#EXTGRP:Азербайджан
+http://yayin.netradyom.com:1935/live/interaz/chunklist_w367472653.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AZLINK TV",GUNAZ TV
+#EXTGRP:Азербайджан
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/playlist.m3u8
+
+#EXTINF:-1,naxcivan tv HD
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:SES TV" tvg-logo="" group-title="CIPTVAZNET",AZ:SES TV
+#EXTGRP:Азербайджан
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:AN.T HD" tvg-logo="" group-title="CIPTVAZNET",AZ:AN.T HD
+#EXTGRP:Азербайджан
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:AZSTAR TV SD 240 p" tvg-logo="" group-title="CIPTVAZNET",AZ:AZSTAR TV SD 240 p
+#EXTGRP:Азербайджан
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:AL-ZAHRA TV" tvg-logo="" group-title="CIPTVAZNET",AZ:AL-ZAHRA TV HD
+#EXTGRP:Азербайджан
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:ON4" tvg-logo="" group-title="CIPTVAZNET",AZ:ON4 HD
+#EXTGRP:Азербайджан
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ:APA TV" tvg-logo="" group-title="CIPTVAZNET",AZ:APA TV HD
+#EXTGRP:Азербайджан
+https://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:-1,Baku.TV HD
+#EXTGRP:Азербайджан
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1,Baku.TV 
+#EXTGRP:Азербайджан
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1,ATV HD 
+#EXTGRP:Азербайджан
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1,ATV -2 
+#EXTGRP:Азербайджан
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1,ATV -4 
+#EXTGRP:Азербайджан
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1,ARB
+#EXTGRP:Азербайджан
+http://149.255.155.142/ARB/index.m3u8
+#EXTINF:-1,ATV 
+#EXTGRP:Азербайджан
+http://149.255.155.142/ATV/index.m3u8
+#EXTINF:-1,AzTV
+#EXTGRP:Азербайджан
+http://149.255.155.142/AzTV/index.m3u8
+#EXTINF:-1,CBC
+#EXTGRP:Азербайджан
+http://149.255.155.142/CBC/index.m3u8
+#EXTINF:-1,Ictimai
+#EXTGRP:Азербайджан
+http://149.255.155.142/Ictimai/index.m3u8
+#EXTINF:-1,Idman
+#EXTGRP:Азербайджан
+http://149.255.155.142/Idman/index.m3u8
+#EXTINF:-1,Medeniyyet
+#EXTGRP:Азербайджан
+http://149.255.155.142/Medeniyyet/index.m3u8
+#EXTINF:-1,Space
+#EXTGRP:Азербайджан
+http://149.255.155.142/Space/index.m3u8
+#EXTINF:-1,Xazar
+#EXTGRP:Азербайджан
+http://149.255.155.142/Xazar/index.m3u8
+#EXTINF:9, ARB 24 HD
+#EXTGRP:Азербайджан
+http://s1.cdntv.online/high/gxufbqcem1/950.m3u8
+
+#EXTINF:15, DUNYA TV
+#EXTGRP:Азербайджан
+http://flussonic.azfiber.net:80/AZ-dunya/index.m3u8
+#EXTINF:17, MUZ TV Azerbaijan
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/AZ-muztv/index.m3u8
+#EXTINF:1,Real TV
+#EXTGRP:Азербайджан
+http://flussonic.azfiber.net:80/AZ-realtv/video.m3u8
+#EXTINF:0,Akilli TV 
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-akillitv/index.m3u8
+#EXTINF:0,Star TV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-startv/index.m3u8
+#EXTINF:0, ATV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-atv/index.m3u8
+#EXTINF:28, SHOW TV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-showtv/index.m3u8
+#EXTINF:29, TV8
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-tv8/index.m3u8
+#EXTINF:30, TV8 int
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-tv8int/index.m3u8
+#EXTINF:31, Kanal D
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-kanald/index.m3u8
+#EXTINF:0,FOX TV 
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-foxtv/index.m3u8
+#EXTINF:33, KANAL 7
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-kanal7/index.m3u8
+#EXTINF:34, BEYAZ TV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-beyaztv/index.m3u8
+#EXTINF:36, teve 2
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-teve2/index.m3u8
+#EXTINF:35, TV 360
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-tv360/index.m3u8
+#EXTINF:22, TRT Belgesel
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-trtbelgesel/index.m3u8
+#EXTINF:18, Bloomberg
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-bloomberg/index.m3u8
+#EXTINF:18, TRT 1
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-trt1/index.m3u8
+#EXTINF:20, TRT Turk
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-trtturk/index.m3u8
+#EXTINF:21, TRT Avaz
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-trtavaz/index.m3u8
+#EXTINF:19, TRT Haber
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-trthaber/index.m3u8
+#EXTINF:53, TMB TV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-tmb/index.m3u8
+#EXTINF:40, CNN Turk
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-cnnturk/index.m3u8
+#EXTINF:39, A Haber
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-ahaber/index.m3u8
+#EXTINF:41, HABER TURK
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-haberturk/index.m3u8
+#EXTINF:38, NTV
+#EXTGRP:Турция SD
+http://flussonic.azfiber.net:80/TR-ntv/index.m3u8
+#EXTINF:58, A SPOR
+#EXTGRP:Спорт 
+http://flussonic.azfiber.net:80/TR-aspor/index.m3u8
+#EXTINF:23, TRT Spor
+#EXTGRP:Спорт 
+http://flussonic.azfiber.net:80/TR-trtspor/index.m3u8
+
+#EXTINF:0,FB TV
+#EXTGRP:Спорт 
+http://flussonic.azfiber.net:80/TR-fbtv/index.m3u8
+
+#EXTINF:66, Россия 1 
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rossiya1/index.m3u8
+#EXTINF:69,РТР-Планета 
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rtrplaneta/index.m3u8
+#EXTINF:68, Россия К
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rossiyakultura/index.m3u8
+#EXTINF:67, Россия 24
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rossiya24/index.m3u8
+#EXTINF:74, НТВ
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-ntv/index.m3u8
+#EXTINF:75, 5 Канал
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-kanal5/index.m3u8
+#EXTINF:76, РЕН ТВ
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rentv/index.m3u8
+#EXTINF:78, ТНТ 
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-tnt/index.m3u8
+#EXTINF:78, ТНТ 4
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-tnt4/index.m3u8
+#EXTINF:79, СТС
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-sts/index.m3u8
+#EXTINF:80, СТС Love
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-stslove/index.m3u8
+#EXTINF:160,РБК
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-rbk/video.m3u8
+#EXTINF:174, МИР 24
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-mir24/index.m3u8
+#EXTINF:174, МИР 
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-mirtv/index.m3u8
+#EXTINF:81, Че
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-che/index.m3u8
+#EXTINF:82, ТВ 3
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-tv3/index.m3u8
+#EXTINF:83, Пятница 
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-pyatnicha/index.m3u8
+#EXTINF:84, ТВЦ
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-tvchentr/index.m3u8
+#EXTINF:85, Домашний
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-domashniy/index.m3u8
+#EXTINF:88, Звезда
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-zvezda/index.m3u8
+#EXTINF:144,Ю
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-yutv/index.m3u8
+#EXTINF:-1,КИНО ТВ
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinotv/video.m3u8
+
+#EXTINF:92, Киномикс
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinomiks/index.m3u8
+#EXTINF:93, Киносвидание
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinosvidanie/index.m3u8
+#EXTINF:94, Кинокомедия
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinokomediya/index.m3u8
+#EXTINF:91, Кинохит
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinoxit/index.m3u8
+#EXTINF:95, Киносерия
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinoseriya/index.m3u8
+#EXTINF:96, Киносемья
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-kinosemya/index.m3u8
+#EXTINF:98, Мужское кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-mujskoekino/index.m3u8
+#EXTINF:99, Наше новое кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-nashenovoekino/index.m3u8
+#EXTINF:97,Родное кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-rodnoekino/index.m3u8
+#EXTINF:100, Индийское кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-indiyskoekino/index.m3u8
+#EXTINF:101, Любимое кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-lyubimoekino/index.m3u8
+#EXTINF:103, Дом кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-domkino/index.m3u8
+#EXTINF:105, Русский роман
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-russkiyroman/index.m3u8
+#EXTINF:105, Русский бестселлер
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-russkiybestseller/index.m3u8
+#EXTINF:107, Русский иллюзион
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-russkiyilluzion/index.m3u8
+#EXTINF:108, Иллюзион+
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-illuzionplyus/index.m3u8
+#EXTINF:110, Еврокино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-evrokino/index.m3u8
+#EXTINF:123, Paramount Comedy
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-paramountcomedy/index.m3u8
+#EXTINF:113, НСТ
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-nstv/index.m3u8
+#EXTINF:115, TV1000
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-tv1000/index.m3u8
+
+#EXTINF:116, TV1000 Русское кино
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-tv1000russkoekino/index.m3u8
+#EXTINF:117, TV1000 Action
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-tv1000action/index.m3u8
+#EXTINF:138, AMEDIA 2
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-amedia2/index.m3u8
+#EXTINF:125, SONY Sci-Fi
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-sonyscifi/index.m3u8
+#EXTINF:127, FOX 
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-foxtv/index.m3u8
+#EXTINF:160,Мир сериала
+#EXTGRP:Кино
+http://flussonic.azfiber.net:80/RU-mirseriala/video.m3u8
+#EXTINF:137, Живая планета
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-jivayaplaneta/index.m3u8
+#EXTINF:135, Зоопарк
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-zoopark/index.m3u8
+#EXTINF:136, Домашние животные
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-domashniejivotnie/index.m3u8
+#EXTINF:147, DTX
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-dtx/index.m3u8
+#EXTINF:152, Наука 2.0
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-nauka20/index.m3u8
+#EXTINF:139, Охота и рыбалка
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-oxotairibalka/index.m3u8
+#EXTINF:153, Моя планета
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-moyaplaneta/index.m3u8
+#EXTINF:177, Авто плюс
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-avtoplyus/index.m3u8
+#EXTINF:178, АВТО 24
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-avto24/index.m3u8
+#EXTINF:86, 365 Дней
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-365dney/index.m3u8
+#EXTINF:154, История
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-istoriya/index.m3u8
+#EXTINF:146, Бобер
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-bober/index.m3u8
+#EXTINF:87, 2x2
+#EXTGRP:Uşaq kanallari
+
+http://flussonic.azfiber.net:80/RU-2x2/index.m3u8
+#EXTINF:190, Tiji
+#EXTGRP:Uşaq kanallari
+
+http://flussonic.azfiber.net:80/RU-tiji/index.m3u8
+#EXTINF:191, Gulli Girl
+#EXTGRP:Uşaq kanallari
+
+http://flussonic.azfiber.net:80/RU-gulligirl/video.m3u8
+#EXTINF:192, Ani
+#EXTGRP:Uşaq kanallari
+
+http://flussonic.azfiber.net:80/RU-anitv/video.m3u8
+#EXTINF:190, Disney Channel
+#EXTGRP:Uşaq kanallari
+
+http://flussonic.azfiber.net:80/RU-disneychannel/index.m3u8
+#EXTINF:197, Карусель
+#EXTGRP:Uşaq kanallari
+http://flussonic.azfiber.net:80/RU-karusel/index.m3u8
+
+#EXTINF:196, Мульт
+#EXTGRP:Uşaq kanallari
+http://flussonic.azfiber.net:80/RU-mult/index.m3u8
+
+#EXTINF:140, Загородная жизнь
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-zaqorodnayajizn/index.m3u8
+#EXTINF:149, Кто есть кто
+#EXTGRP:Познавательные
+http://flussonic.azfiber.net:80/RU-ktoestkto/index.m3u8
+#EXTINF:220, Ностальгия
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-nostalgiya/index.m3u8
+#EXTINF:73, Время
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-vremya/index.m3u8
+#EXTINF:188, Телекафе
+#EXTGRP:Кулинария
+http://flussonic.azfiber.net:80/RU-telekafe/index.m3u8
+#EXTINF:155, Food network
+#EXTGRP:Кулинария
+http://flussonic.azfiber.net:80/RU-foodnetwork/index.m3u8
+#EXTINF:207, Муз ТВ
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-muztv/index.m3u8
+#EXTINF:209, Жара
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-jara/index.m3u8
+#EXTINF:-1,VH1 Europe
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/EN-vh1europe/index.m3u8
+#EXTINF:160,RU TV
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-rutv/video.m3u8
+
+#EXTINF:174, Европа плюс
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-evropaplyus/index.m3u8
+#EXTINF:174, Ляминор
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-lyaminor/index.m3u8
+#EXTINF:160,Bridge TV 
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-bridgetvrusskiyxit/index.m3u8
+#EXTINF:160,MCM Top                                                  
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/EN-mcmtop/index.m3u8
+#EXTINF:160,Музыка первого                                                      
+#EXTGRP:Музыкальные
+http://flussonic.azfiber.net:80/RU-muzikapervoqo/index.m3u8
+#EXTINF:155, World Fashion
+#EXTGRP:Мода
+http://flussonic.azfiber.net:80/RU-worldfashion/index.m3u8
+#EXTINF:155, Живи
+#EXTGRP:Россия
+http://flussonic.azfiber.net:80/RU-jivi/index.m3u8
+#EXTINF:172, Матч! Боец
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-matchoech/index.m3u8
+#EXTINF:170, Матч арена
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-matcharena/index.m3u8
+#EXTINF:168, Матч игра
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-matchiqra/index.m3u8
+
+#EXTINF:108,КХЛ
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-kxltv/video.m3u8
+#EXTINF:174, Бокс ТВ
+#EXTGRP:Спорт
+http://flussonic.azfiber.net:80/RU-bokstv/index.m3u8
+
+#EXTINF:1 ,1+1 Спорт (720p)
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:1 ,100% News (576p)  (News)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:1 ,24 Канал (1080p)  (News)
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:1 ,34 канал (576p)
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:1 ,4 канал (1080p)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:1 ,4 канал (576p)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:1 ,4 канал (720p)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:1 ,7 канал (720p)
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod/playlist.m3u8
+#EXTINF:1 ,ATR (504p)
+http://stream.atr.ua/atr/live/index.m3u8
+
+
+
+
+
+#EXTINF:1 ,GIT (720p)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:1 ,GTV (240p)
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-240p/playlist.m3u8
+#EXTINF:1 ,GTV (480p)
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:1 ,GTV (720p)
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:1 ,HDFashion & LifeStyle (1080p)  (Lifestyle)
+http://95.67.47.114/hls/hdfashion_ua.m3u8
+#EXTINF:1 ,IHTEP (576p)
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:1 ,Iнтер (576p)
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:1 ,K1 (512p)
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+
+#EXTINF:1 ,Lale (504p)  (Kids)
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:1 ,M1 (1080p)  (Music)
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:1 ,M2 (720p)  (Music)
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:1 ,Micto (360p)
+http://93.78.206.172:8080/stream3/stream.m3u8
+#EXTINF:1 ,MostVideo.TV (720p)
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:1 ,Odessa Fashion (720p)  (Lifestyle)
+https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8
+#EXTINF:1 ,Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:1 ,Simon (576p)
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:1 ,Skrypin.ua (1080p) [Not 24/7]
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:1 ,Sport 1 [Not 24/7]  (Sports)
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:1 ,TBN Украина (720p)  (Religious)
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:1 ,The Pet Collective Europe (720p)  (Family)
+https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Travel Guide TV (720p)  (Travel)
+https://cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8
+#EXTINF:1 ,TV5 (Запорожье) (360p)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:1 ,TV7+ (Хмельницький) [Not 24/7]  (Local)
+https://tv7plus.com/hls/tv7.m3u8
+#EXTINF:1 ,UA: Одеса (384p)
+https://cdn10.live-tv.od.ua:8083/odtrkod/odtrkod-abr/playlist.m3u8
+#EXTINF:1 ,UATV (720p)
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:1 ,UATV (576p)
+https://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:1 ,WeatherSpy Europe (720p)  (Weather)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Z (Запорожье) (1080p)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:1 ,А1 (Одесса) (720p)
+https://cdn1.live-tv.od.ua:8083/a1od/a1od-abr/playlist.m3u8
+#EXTINF:1 ,Авторадио (720p)
+https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+#EXTINF:1 ,Академия (Одесса) (720p)
+https://cdn10.live-tv.od.ua:8083/36chod/36chod-abr/playlist.m3u8
+#EXTINF:1 ,Архат ТВ (720p)
+https://arhat.tv/public/720p/index.m3u8
+#EXTINF:1 ,Балта ТВ (768p)
+http://194.50.51.34/playlist.m3u8
+#EXTINF:1 ,ВТВ (576p)
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:1 ,Глас (576p)
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:1 ,Гласс (RU) (576p)
+https://glas.org.ua/hls/glassru.m3u8
+#EXTINF:1 ,Гласс (UA) (576p)
+https://glas.org.ua/hls/glassua.m3u8
+#EXTINF:1 ,Донбас Online (1080p)
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:1 ,Думская ТВ (720p)
+https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8
+#EXTINF:1 ,Здоровье (504p)
+https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:1 ,Измаил ТВ (576p)
+https://cdn10.live-tv.od.ua:8083/izod/izod-abr/playlist.m3u8
+#EXTINF:1 ,Интер (512p)
+http://109.68.40.67/img/inter_2/index.m3u8
+#EXTINF:1 ,ИРТ (Днепр) (576p)
+http://91.193.128.233:1935/live/irt.stream/playlist.m3u8
+#EXTINF:1 ,К1 (256p)
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:1 ,К1 (576p)
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:1 ,Круг (576p)
+https://cdn1.live-tv.od.ua:8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:1 ,Ланет.TV (486p)
+http://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:1 ,Надия/Новый канал (576p)
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:1 ,Надія (720p)
+https://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:1 ,НТК (1080p)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:1 ,НТН (576p)
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:1 ,Общественное Независимое Телевидение (576p)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:1 ,Объектив 59 (576p)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:1 ,Одесса (576p) [Not 24/7]
+https://cdn1.live-tv.od.ua:8083/riood/riood-abr/playlist.m3u8
+#EXTINF:1 ,Орбіта ТВ [Not 24/7]
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:1 ,ОТВ (Днепр) (576p)
+http://91.193.128.233:1935/live/otv.stream_576p/playlist.m3u8
+#EXTINF:1 ,Первый городской (Кривой Рог) (720p)
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:1 ,Первый Городской (Кривой Рог) (720p)
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:1 ,Первый городской (Одесса) (1080p)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:1 ,Первый Городской (Одесса) (576p)
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:1 ,Первый Городской (Одесса) (504p)
+https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:1 ,Первый Деловой (720p)
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:1 ,Первый Деловой (576p)
+http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:1 ,Перший Діловий (720p)
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:1 ,Перший Діловий (576p)
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:1 ,Перший Західний (Львов) (480p)
+http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
+#EXTINF:1 ,Перший незалежний (1080p)  (News)
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:1 ,ПравдаТУТ (720p)
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:1 ,Прямий (720p)
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:1 ,Прямий (576p)
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:1 ,Радио Люкс (1080p)
+https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:1 ,Репортер (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:1 ,Сварожичи (720p)
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:1 ,СК 1 (720p)
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:1 ,СК 1 (256p)
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt240p/playlist.m3u8
+#EXTINF:1 ,СК 1 (480p)
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt480p/playlist.m3u8
+#EXTINF:1 ,ТВА (Чернiвцi) (576p)
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:1 ,Тис ТВ (480p) [Not 24/7]
+https://cdn10.live-tv.od.ua:8083/riood/tisod504/playlist.m3u8
+#EXTINF:1 ,ТРК Алекс (576p)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:1 ,ТРК Круг (576p)
+https://cdn1.live-tv.od.ua:8083/krugod/krugod/playlist.m3u8
+#EXTINF:1 ,ТРК Репортер (480p) [Not 24/7]
+https://cdn1.live-tv.od.ua:8083/31chod/31chod-sub/playlist.m3u8
+#EXTINF:1 ,Трофей ТВ (1080p)
+https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:1 ,Футбол 1 [Not 24/7]  (Sports)
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:1 ,Херсон Плюс (576p)
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:1 ,Чернівецький промінь (720p)
+https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:1 ,ЧП Инфо (576p)
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:1 ,ЧП.інфо (576p)
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:1 ,Южная Волна (720p)
+https://cdn1.live-tv.od.ua:8083/wave/wave-abr/playlist.m3u8
+#EXTINF:1 ,Южная Волна ТВ (Одесса) (720p)
+https://cdn1.live-tv.od.ua:8083/wave/wave-720/playlist.m3u8
+#EXTINF:1 ,ЯТБ (576p)
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:1 ,Інший (720p)
+https://cdn1.live-tv.od.ua:8083/ktkod/ktkod/playlist.m3u8
