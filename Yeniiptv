@@ -1,970 +1,554 @@
 #EXTM3U 
-#EXTINF:-1,AzTV 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:0, Aztv
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/AzTV/index.m3u8
-
-#EXTINF:-1,ATV 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:0,ATV
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/ATV/index.m3u8
-
-
-#EXTINF:-1,ATV -2 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:0, ATV-2
+#EXTGRP:Azərbaycan 
 http://85.132.81.184:8080/atv-2/index.m3u8
-
 #EXTINF:-1,ATV -4 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://85.132.81.184:8080/atv-4/index.m3u8
-
 #EXTINF:9, ARB 24 HD 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://85.132.81.184:8080/arb24/live1/index.m3u8
-
- #EXTINF:-1,ARB 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:-1,ARB 
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/ARB/index.m3u8
 
+#EXTINF:-1,Arb Günəş1
+#EXTGRP:Cizgi Film
+http://flussonic.azfiber.net:80/AZ-arbgunesh/index.m3u8
+#EXTINF:-1,Arb Günəş2
+#EXTGRP:Cizgi Film
+http://193.228.193.179:8000/play/a06x
+#EXTINF:-1,Arb Günəş
+#EXTGRP:Azərbaycan 
+http://mfe01.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
 #EXTINF:-1,Ictimai 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/Ictimai/index.m3u8
-
 #EXTINF:-1,Space 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/Space/index.m3u8
-
 #EXTINF:-1,Xazar 
-#EXTGRP:Azərbaycan kanalları
+#EXTGRP:Azərbaycan
 http://149.255.155.142/Xazar/index.m3u8
-
 #EXTINF:1,Real TV 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://flussonic.azfiber.net:80/AZ-realtv/video.m3u8 
-
-#EXTINF:-1, Dalga tv
-#EXTGRP:Azərbaycan kanalları
+#EXTINF:-1,KANAL-S
+#EXTGRP:Azərbaycan
 http://mfe01.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
-
-
-#EXTINF:-1, KANAL-S 
-#EXTGRP:Azərbaycan kanalları
-https://hasan.tvcag.live/str.yodacdn.net/start/mono.m3u8?token=2f47e6032c136b7fb348f457857038fef4ae29be-b65e3113e2fad805438d0f0354daaf43-1648473108-1648462308
-
-
+#EXTINF:-1,LİVE TV
+#EXTGRP:Azərbaycan
+http://65.108.122.42/russia/livetv/chunks.m3u8
+#EXTINF:-1,Kəpəz tv
+#EXTGRP:Azərbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0,Səhər tv
+#EXTGRP:Azərbaycan
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:1,Qafqaz tv
+#EXTGRP:Azərbaycan
+http://65.108.122.42/azerbaijan/qafqaztv/chunks.m3u8
+#EXTINF:-1,GEM Az
+#EXTGRP:Azərbaycan
+http://193.228.193.179:8000/play/a01m
+#EXTINF:-1,Səhər TV (Azərbaycanca)
+#EXTGRP:Azərbaycan
+http://193.228.193.179:8000/play/a01a
+#EXTINF:1,Turan TV
+#EXTGRP:Azərbaycan
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF:1,El tv
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
+#EXTINF:1,QƏBƏLƏ TV
+#EXTGRP:Azərbaycan
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:1, Alvin Tv
+#EXTGRP:Azərbaycan
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w173010177.m3u8
 #EXTINF:-1, Mugan Tv
-#EXTGRP:Azərbaycan kanalları
+#EXTGRP:Azərbaycan
 https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w1163467608.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-
-
-
 #EXTINF:-1,Baku.TV 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 https://rtmp.baku.tv/live/bakutv_540p.m3u8
-
-
 #EXTINF:-1, City Tv AZ
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 https://hasan.tvcag.live/str.yodacdn.net/vip/mono.m3u8?token=bcecd566aee44f65532f9ea3ac2b4e7ccc45024f-66e23b2cdf90475bb3c4ca8ed62e039c-1648474682-1648463882
-
-
-
- #EXTINF:-1,INTER AZ HD 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:-1,INTER AZ HD 
+#EXTGRP:Azərbaycan 
 http://yayin.netradyom.com:1935/live/interaz/chunklist_w367472653.m3u8 
-
-#EXTINF:-1, GUNAZ TV 
-#EXTGRP:Azərbaycan kanalları 
-https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/playlist.m3u8 
-
+#EXTINF:-1,GünAz TV
+#EXTGRP:Azərbaycan
+http://109.200.130.123:7025/play/a00g 
 #EXTINF:-1,naxcivan tv HD
-#EXTGRP:Azərbaycan kanalları
+#EXTGRP:Azərbaycan
 http://canli.naxcivantv.az/media/ntvlive123.m3u8 
-
-
-
 #EXTINF:-1, SES TV
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8 
-
-
 #EXTINF:-1, AN.T HD
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8 
-
 #EXTINF:-1, AZSTAR TV  
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8 
-
 #EXTINF:-1, AL-ZAHRA
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 https://live.al-zahratv.com/live/playlist2/index.m3u8 
-
 #EXTINF:-1, ON4
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8 
-
 #EXTINF:-1, APA TV HD
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 https://rtmp.apa.tv/@pagroup!23.m3u8
-
-
 #EXTINF:-1,CBC 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/CBC/index.m3u8
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azərbaycan kanalları",TMB TV AZ
+#EXTINF:0,TMB TV AZ
+#EXTGRP:Azərbaycan 
 http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
- #EXTINF:-1,Medeniyyet 
-#EXTGRP:Azərbaycan kanalları 
+#EXTINF:-1,Medeniyyet 
+#EXTGRP:Azərbaycan 
 http://149.255.155.142/Medeniyyet/index.m3u8 
-
-
-
-
-
+#EXTINF:-1,Idman 
+#EXTGRP:Azərbaycan
+http://149.255.155.142/Idman/index.m3u8
 #EXTINF:15, DUNYA TV 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://flussonic.azfiber.net:80/AZ-dunya/index.m3u8 
-
 #EXTINF:17, MUZ TV Azerbaijan 
-#EXTGRP:Azərbaycan kanalları 
+#EXTGRP:Azərbaycan 
 http://flussonic.azfiber.net:80/AZ-muztv/index.m3u8
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Россия-1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 
 
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",5 канал
-http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",TRT 1
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",A Haber
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",A Spor
-http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",AKILLI TV
-http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",AMC
-http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:1 ,1+1 Спорт (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:1 ,24 Канал (1080p)  (News)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:1 ,34 канал (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:1 ,4 канал (1080p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-
-#EXTINF:1 ,4 канал (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-
-#EXTINF:1 ,4 канал (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-
-#EXTINF:1 ,ATR (504p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://stream.atr.ua/atr/live/index.m3u8
-
-#EXTINF:1 ,GIT (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://stream.uagit.tv/gittv.m3u8
-
-#EXTINF:1 ,GTV (240p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-240p/playlist.m3u8
-#EXTINF:1 ,GTV (480p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:1 ,GTV (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:1 ,HDFashion & LifeStyle (1080p)  (Lifestyle)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.47.114/hls/hdfashion_ua.m3u8
-#EXTINF:1 ,IHTEP (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-
-#EXTINF:1 ,Iнтер (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-
-#EXTINF:1 ,K1 (512p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
-
-#EXTINF:1 ,Lale (504p)  (Kids)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:1 ,M1 (1080p)  (Music)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://live.m2.tv/hls2/stream.m3u8
-
-#EXTINF:1 ,M2 (720p)  (Music)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://live.m2.tv/hls3/stream.m3u8
-
-
-
-#EXTINF:1 ,Odessa Fashion (720p)  (Lifestyle)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8
-
-
-#EXTINF:1 ,Skrypin.ua (1080p) [Not 24/7]
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://open-cdn.lanet.tv/live/1008.m3u8
-
-#EXTINF:1 ,TV5 (Запорожье) (360p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
-
-#EXTINF:1 ,UATV (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
-
-
-#EXTINF:1 ,Z (Запорожье) (1080p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://stream.ztv.zp.ua/hls/live.m3u8
-
-#EXTINF:1 ,А1 (Одесса) (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/a1od/a1od-abr/playlist.m3u8
-
-
-#EXTINF:1 ,Архат ТВ (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://arhat.tv/public/720p/index.m3u8
-
-#EXTINF:1 ,Балта ТВ (768p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://194.50.51.34/playlist.m3u8
-
-#EXTINF:1 ,Глас (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-
-
-#EXTINF:1 ,Думская ТВ (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8
-
-
-#EXTINF:1 ,Интер (512p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://109.68.40.67/img/inter_2/index.m3u8
-
-#EXTINF:1 ,ИРТ (Днепр) (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://91.193.128.233:1935/live/irt.stream/playlist.m3u8
-
-#EXTINF:1 ,Круг (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-
-#EXTINF:1 ,Ланет.TV (486p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://kiev1-cdn.lanet.tv/live/1008.m3u8
-
-#EXTINF:1 ,Надия/Новый канал (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-
-#EXTINF:1 ,Надія (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://stream.hope.ua/hopeua/live_1/playlist.m3u8
-
-#EXTINF:1 ,НТК (1080p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-
-#EXTINF:1 ,НТН (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
-
-
-
-#EXTINF:1 ,Орбіта ТВ [Not 24/7]
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:1 ,ОТВ (Днепр) (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://91.193.128.233:1935/live/otv.stream_576p/playlist.m3u8
-
-#EXTINF:1 ,Первый городской (Кривой Рог) (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr/playlist.m3u8
-
-#EXTINF:1 ,Первый Городской (Кривой Рог) (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr/playlist.m3u8
-
-#EXTINF:1 ,Первый городской (Одесса) (1080p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-
-#EXTINF:1 ,Первый Городской (Одесса) (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-
-#EXTINF:1 ,Первый Городской (Одесса) (504p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
-
-#EXTINF:1 ,Первый Деловой (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
-
-#EXTINF:1 ,Первый Деловой (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-
-#EXTINF:1 ,Перший Діловий (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-
-#EXTINF:1 ,Перший Діловий (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-
-#EXTINF:1 ,Перший Західний (Львов) (480p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
-
-#EXTINF:1 ,Перший незалежний (1080p)  (News)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
-#EXTINF:1 ,ПравдаТУТ (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-
-#EXTINF:1 ,Прямий (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-
-#EXTINF:1 ,Прямий (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-
-
-#EXTINF:1 ,Репортер (720p) [Not 24/7]
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
-
-#EXTINF:1 ,Сварожичи (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-
-#EXTINF:1 ,СК 1 (256p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt240p/playlist.m3u8
-
-
-#EXTINF:1 ,ТВА (Чернiвцi) (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-
-#EXTINF:1 ,Тис ТВ (480p) [Not 24/7]
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn10.live-tv.od.ua:8083/riood/tisod504/playlist.m3u8
-
-#EXTINF:1 ,ТРК Алекс (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://46.46.112.223/live/livestream1.m3u8
-
-#EXTINF:1 ,ТРК Круг (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/krugod/krugod/playlist.m3u8
-
-#EXTINF:1 ,ТРК Репортер (480p) [Not 24/7]
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/31chod/31chod-sub/playlist.m3u8
-
-
-
-#EXTINF:1 ,Чернівецький промінь (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://langate.tv/promin/live_720/index.m3u8
-
-
-#EXTINF:1 ,Южная Волна (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/wave/wave-abr/playlist.m3u8
-
-#EXTINF:1 ,Южная Волна ТВ (Одесса) (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/wave/wave-720/playlist.m3u8
-
-#EXTINF:1 ,ЯТБ (576p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-http://46.175.163.130/live_yatb/playlist.m3u8
-
-#EXTINF:1 ,Інший (720p)
-#EXTGRP:Ukraniya kanalları-Українські канали
-https://cdn1.live-tv.od.ua:8083/ktkod/ktkod/playlist.m3u8
-
-
-#EXTINF:1 ,1+1 Спорт (720p)
-#EXTGRP:digər kanallar
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:1 ,100% News (576p)  (News)
-#EXTGRP:digər kanallar
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:1 ,24 Канал (1080p)  (News)
-#EXTGRP:digər kanallar
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:1 ,34 канал (576p)
-#EXTGRP:digər kanallar
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:1 ,4 канал (1080p)
-#EXTGRP:digər kanallar
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:1 ,4 канал (576p)
-#EXTGRP:digər kanallar
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:1 ,4 канал (720p)
-#EXTGRP:digər kanallar
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-#EXTINF:1 ,7 канал (720p)
-#EXTGRP:digər kanallar
-https://cdn10.live-tv.od.ua:8083/7tvod/7tvod/playlist.m3u8
-#EXTINF:1 ,ATR (504p)
-#EXTGRP:digər kanallar
-http://stream.atr.ua/atr/live/index.m3u8
-
-
-
-
-
-#EXTINF:1 ,GIT (720p)
-#EXTGRP:digər kanallar
-https://stream.uagit.tv/gittv.m3u8
-#EXTINF:1 ,GTV (240p)
-#EXTGRP:digər kanallar
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-240p/playlist.m3u8
-#EXTINF:1 ,GTV (480p)
-#EXTGRP:digər kanallar
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:1 ,GTV (720p)
-#EXTGRP:digər kanallar
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:1 ,HDFashion & LifeStyle (1080p)  (Lifestyle)
-#EXTGRP:digər kanallar
-http://95.67.47.114/hls/hdfashion_ua.m3u8
-#EXTINF:1 ,IHTEP (576p)
-#EXTGRP:digər kanallar
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:1 ,Iнтер (576p)
-#EXTGRP:digər kanallar
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:1 ,K1 (512p)
-#EXTGRP:digər kanallar
-https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
-
-#EXTINF:1 ,Lale (504p)  (Kids)
-#EXTGRP:digər kanallar
-http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:1 ,M1 (1080p)  (Music)
-#EXTGRP:digər kanallar
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:1 ,M2 (720p)  (Music)
-#EXTGRP:digər kanallar
-http://live.m2.tv/hls3/stream.m3u8
-
-#EXTINF:1 ,Micto (360p)
-#EXTGRP:digər kanallar
-http://93.78.206.172:8080/stream3/stream.m3u8
-#EXTINF:1 ,MostVideo.TV (720p)
-#EXTGRP:digər kanallar
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:1 ,Odessa Fashion (720p)  (Lifestyle)
-#EXTGRP:digər kanallar
-https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8
-#EXTINF:1 ,Renome (576p)
-#EXTGRP:digər kanallar
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:1 ,Simon (576p)
-#EXTGRP:digər kanallar
-https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:1 ,Skrypin.ua (1080p) [Not 24/7]
-#EXTGRP:digər kanallar
-https://open-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:1 ,Sport 1 [Not 24/7]  (Sports)
-#EXTGRP:digər kanallar
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:1 ,TBN Украина (720p)  (Religious)
-#EXTGRP:digər kanallar
-http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="WORLD",BBC World News
-http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="WORLD",BRIDGE TV
-http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="MUSİQİ",BRIDGE TV Dance
-http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",CINEMA
-http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Cartoon Network
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Cartoon Network
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",DMAX
-http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Da Vinci Learning
-http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Disney
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Disney
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Gulli Girl
-http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Arb Günəş
-http://mfe01.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Azərbaycan kanalları",Arb Günəş
-http://mfe01.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
-
+#EXTINF:18, TRT 1
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-trt1/index.m3u8
+
+
+#EXTINF:-1,TRT KURDI
+#EXTGRP:Türkiyə 
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT BELGESEL
+#EXTGRP:Türkiyə 
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT-2
+#EXTGRP:Türkiyə 
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT-TURK
+#EXTGRP:Türkiyə 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT HABER
+#EXTGRP:Türkiyə 
+ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT ARABI
+#EXTGRP:Türkiyə 
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT WORLD
+#EXTGRP:Türkiyə 
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT okul
+#EXTGRP:Türkiyə 
+https://tv-e-okul04.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1,TRT AVAZ
+#EXTGRP:Türkiyə 
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,Akilli TV 
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-akillitv/index.m3u8
+#EXTINF:0,Star TV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-startv/index.m3u8
+#EXTINF:0, ATV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-atv/index.m3u8
+#EXTINF:28, SHOW TV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-showtv/index.m3u8
+#EXTINF:-1, Show Turk
+#EXTGRP:Türkiyə 
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1648984653&st=0DOoTWp_wxOToXPhTz8ysQ&tv=1
+#EXTINF:29, TV8
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-tv8/index.m3u8
+#EXTINF:30, TV8 int
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-tv8int/index.m3u8
+#EXTINF:31, Kanal D
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-kanald/index.m3u8
+#EXTINF:0,FOX TV 
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-foxtv/index.m3u8
+#EXTINF:33, KANAL 7
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-kanal7/index.m3u8
+#EXTINF:34, BEYAZ TV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-beyaztv/index.m3u8
+#EXTINF:36, teve 2
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-teve2/index.m3u8
+#EXTINF:35, TV 360
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-tv360/index.m3u8
+#EXTINF:18, Bloomberg
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-bloomberg/index.m3u8
+#EXTINF:20, TRT Turk
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-trtturk/index.m3u8
+#EXTINF:21, TRT Avaz
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-trtavaz/index.m3u8
+#EXTINF:19, TRT Haber
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-trthaber/index.m3u8
+#EXTINF:53, TMB TV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-tmb/index.m3u8
+#EXTINF:40, CNN Turk
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-cnnturk/index.m3u8
+#EXTINF:39, A Haber
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-ahaber/index.m3u8
+#EXTINF:41, HABER TURK
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-haberturk/index.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",HABERTÜRK
-http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:-1,Нтв HD
-#EXTGRP: Rusiya
-http://mfe02.cliptv.az/dash/HTB_HD.ism/playlist.mpd
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",HD Life
-http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",History
-http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Investigation Discovery
-http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:38, NTV
+#EXTGRP:Türkiyə 
+http://flussonic.azfiber.net:80/TR-ntv/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",AKIT TV HD
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",ATV  HD TR
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",BELGESEL HD
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",BENGÜTÜRK TV [HD]
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",BRT 1 FHD
+http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",BRT 2 HD
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",BRT 3 HD
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",D MAX FHD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",DREAM TV 
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",DOST HD TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",DiYANET TV HD
+https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",EKOTURK FHD
+https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",KANAL 13 HD
+http://sabantv2020.ozelip.com:8080/kanal13/kanal13/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",KANAL B HD
+https://mn-nl.mncdn.com/blutv_kanalb2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",KANAL iSTANBUL HD
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",KOMEDi HD
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",KON TV HD YEDEK
+https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",Mercan TV HD
+http://yerelmedya.tv:1935/mercantv/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",NOSTALJi HD
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TAY TV HD
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TR24 TV [HD]
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TRT KURDi HD
+https://mn-nl.mncdn.com/blutv_trtkurdi2/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TRT TURK HD
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TRT WORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TURK HABER TV HD
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TV4 FHD
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TV8 BUCUK HD
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",TiVi 6 HD
+http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Türkiyə",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAD1ln.png" group-title="Türkiyə",YABAN TV [HD]
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",Kanal 7
 http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",Kanal D
 http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd?checkedby:iptvcat.net
 
 
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",MTV DANCE
+
+#EXTINF:0,Россия-1 HD
+#EXTGRP:Rusiya
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Rusiya 24
+#EXTGRP:Rusiya
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Rusiya К
+#EXTGRP:Rusiya
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
+#EXTINF:-1,Rusiya РТР
+#EXTGRP:Rusiya
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1,РТР Планета
+#EXTGRP:Rusiya
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Мир 24 HD
+#EXTGRP:Rusiya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир HD
+#EXTGRP:Rusiya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир Премиум
+#EXTGRP:Rusiya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,AMC
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,CINEMA
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,Da Vinci Learning
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,Disney
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0, НТВ
+#EXTGRP:Rusiya
+http://mfe02.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:0,HD Life
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,History
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,Investigation Discovery
+#EXTGRP:Rusiya
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0,MTV DANCE
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",MTV RUSSIA
+#EXTINF:0,MTV RUSSIA
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="WORLD",Mezzo Live
-http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Minika Cocuk
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Minika Go
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",NTV
-http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",National Geographic Channel
+#EXTINF:0,National Geographic Channel
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Nickelodeon
+#EXTINF:0,Nickelodeon
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",NİCK JR
+#EXTINF:0,NİCK JR
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="WORLD",OCEAN TV
-http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",ON4
-http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",PARAMOUNT COMEDY
-http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",POWERTURK
-http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",STAR TV SD
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",Show
-http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",Star
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",TRT Belgesel
-http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",TRT Cocuk
-http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",TRT Haber
-http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="WORLD",TRT World
-http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",TV 8.5
-http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",TV1000
-http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",TV1000 Русское кино
-http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Türkiyə",Teve 2
-http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Tiji
-http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Travel Channel
+#EXTINF:0,Travel Channel
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",VH1 CLASSIC
+#EXTINF:0,VH1 CLASSIC
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="MUSİQİ",VH1 EUROPE
-http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",VIP Megahit
+#EXTINF:0,VIP Megahit
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Viasat History
+#EXTINF:0,Viasat History
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Viasat Nature
+#EXTINF:0,Viasat Nature
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Rusiya",Vip Comedy
+#EXTINF:0,Vip Comedy
+#EXTGRP:Rusiya
 http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd?checkedby:iptvcat.net
 
 
 
-#EXTM3U
-#EXTINF:1 ,1+1 Спорт (720p)
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:1 ,100% News (576p)  (News)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:1 ,24 Канал (1080p)  (News)
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:1 ,34 канал (576p)
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:1 ,4 канал (1080p)
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:1 ,4 канал (576p)
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:1 ,4 канал (720p)
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-#EXTINF:1 ,7 канал (720p)
-https://cdn10.live-tv.od.ua:8083/7tvod/7tvod/playlist.m3u8
-#EXTINF:1 ,ATR (504p)
-http://stream.atr.ua/atr/live/index.m3u8
 
-#EXTINF:1 ,GIT (720p)
-https://stream.uagit.tv/gittv.m3u8
-#EXTINF:1 ,GTV (240p)
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-240p/playlist.m3u8
-#EXTINF:1 ,GTV (480p)
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:1 ,GTV (720p)
-https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:1 ,HDFashion & LifeStyle (1080p)  (Lifestyle)
-http://95.67.47.114/hls/hdfashion_ua.m3u8
-#EXTINF:1 ,IHTEP (576p)
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:1 ,Iнтер (576p)
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:1 ,K1 (512p)
-https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
 
-#EXTINF:1 ,Lale (504p)  (Kids)
-http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:1 ,M1 (1080p)  (Music)
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:1 ,M2 (720p)  (Music)
-http://live.m2.tv/hls3/stream.m3u8
 
-#EXTINF:1 ,Micto (360p)
-http://93.78.206.172:8080/stream3/stream.m3u8
-#EXTINF:1 ,MostVideo.TV (720p)
+
+
+
+#EXTINF:0,MUZ TV
+#EXTGRP:Musiqi
+http://flussonic.azfiber.net:80/AZ-muztv/index.m3u8
+#EXTINF:0,Kral Pop TV
+#EXTGRP:Musiqi
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0,KRAL TV  HD
+#EXTGRP:Musiqi
+http://dygvideo.dygdigital.com/live/hls/kraltv
+#EXTINF:0,TATLISES TV HD
+#EXTGRP:Musiqi
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
+#EXTINF:0,POWER TV HD YEDEK
+#EXTGRP:Musiqi
+http://yerelmedya.tv:1935/powertv/bant1/playlist.m3u8
+#EXTINF:0,POWER TURK HD
+#EXTGRP:Musiqi
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,SUPER TV MUZIK FHD
+#EXTGRP:Musiqi
+http://90.84.231.156:8000/play/a001/index.m3u8
+#EXTINF:0,TRT MUZiK HD
+#EXTGRP:Musiqi
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:0,VH1 EUROPE
+#EXTGRP:Musiqi
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:0,BRIDGE TV Dance
+#EXTGRP:Musiqi
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,A SPOR
+#EXTGRP:Sport
+https://trkvz-live.daioncdn.net/aspor/aspor_480p.m3u8
+#EXTINF:-1,TRT SPOR
+#EXTGRP:Sport
+http://mfe01.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
+#EXTINF:-1,Idman 
+#EXTGRP:Sport
+http://149.255.155.142/Idman/index.m3u8
+#EXTINF:-1, CBC Sport  Az
+#EXTGRP:Sport
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
+#EXTINF:-1, CBC Sport  Az
+#EXTGRP:Azərbaycan
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Sport",Матч! HD
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Страна
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
+#EXTINF:-1 group-title="Sport",Матч! Игра
+http://185.184.233.180:5000/udp/225.1.2.155:1234
+#EXTINF:-1 group-title="Sport",Матч! Арена
+http://185.184.233.180:5000/udp/225.1.2.156:1234
+#EXTINF:-1 group-title="Sport",Матч! Боец
+http://185.184.233.180:5000/udp/225.1.2.157:1234
+#EXTINF:-1 group-title="Sport",Матч Футбол 1
+http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
+#EXTINF:-1 group-title="Sport",Матч Футбол 2
+http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
+#EXTINF:-1 group-title="Sport",Матч Футбол 3
+http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
+#EXTINF:-1 group-title="Sport",Футбол
+http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
+#EXTINF:-1 group-title="Sport" tvg-logo="http://persik.tv/images/channels/logos/440.png",Футбол
+http://persik.by/stream/7504/377885/440.m3u8
+#EXTINF:-1 group-title="Sport",Eurosport 2 HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1 group-title="Sport",Беларусь 5 HD
+http://persik.by/stream/7504/377885/10408.m3u8
+#EXTINF:-1 group-title="Sport",Беларусь 5
+http://persik.by/stream/7504/377885/932.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Планета
+https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
+#EXTINF:-1 group-title="Sport",КХЛ HD
+http://persik.by/stream/7504/377885/10242.m3u8
+#EXTINF:-1 group-title="Sport",КХЛ
+https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport
+http://persik.by/stream/7504/377885/10277.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport HD
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Sportивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:1 ,Odessa Fashion (720p)  (Lifestyle)
-https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8
-#EXTINF:1 ,Renome (576p)
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:1 ,Simon (576p)
-https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:1 ,Skrypin.ua (1080p) [Not 24/7]
-https://open-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:1 ,Sport 1 [Not 24/7]  (Sports)
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:1 ,TBN Украина (720p)  (Religious)
-http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
-#EXTINF:1 ,The Pet Collective Europe (720p)  (Family)
-https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:1 ,Travel Guide TV (720p)  (Travel)
-https://cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8
-#EXTINF:1 ,TV5 (Запорожье) (360p)
-https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
-#EXTINF:1 ,TV7+ (Хмельницький) [Not 24/7]  (Local)
-https://tv7plus.com/hls/tv7.m3u8
-#EXTINF:1 ,UA: Одеса (384p)
-https://cdn10.live-tv.od.ua:8083/odtrkod/odtrkod-abr/playlist.m3u8
-#EXTINF:1 ,UATV (720p)
-http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:1 ,UATV (576p)
-https://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
-#EXTINF:1 ,WeatherSpy Europe (720p)  (Weather)
-https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:1 ,Z (Запорожье) (1080p)
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:1 ,А1 (Одесса) (720p)
-https://cdn1.live-tv.od.ua:8083/a1od/a1od-abr/playlist.m3u8
-#EXTINF:1 ,Авторадио (720p)
-https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
-#EXTINF:1 ,Академия (Одесса) (720p)
-https://cdn10.live-tv.od.ua:8083/36chod/36chod-abr/playlist.m3u8
-#EXTINF:1 ,Архат ТВ (720p)
-https://arhat.tv/public/720p/index.m3u8
-#EXTINF:1 ,Балта ТВ (768p)
-http://194.50.51.34/playlist.m3u8
-#EXTINF:1 ,ВТВ (576p)
-http://video.vtvplus.com.ua:81/hls/online/index.m3u8
-#EXTINF:1 ,Глас (576p)
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:1 ,Гласс (RU) (576p)
-https://glas.org.ua/hls/glassru.m3u8
-#EXTINF:1 ,Гласс (UA) (576p)
-https://glas.org.ua/hls/glassua.m3u8
-#EXTINF:1 ,Донбас Online (1080p)
-http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:1 ,Думская ТВ (720p)
-https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8
-#EXTINF:1 ,Здоровье (504p)
-https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo/playlist.m3u8
-#EXTINF:1 ,Измаил ТВ (576p)
-https://cdn10.live-tv.od.ua:8083/izod/izod-abr/playlist.m3u8
-#EXTINF:1 ,Интер (512p)
-http://109.68.40.67/img/inter_2/index.m3u8
-#EXTINF:1 ,ИРТ (Днепр) (576p)
-http://91.193.128.233:1935/live/irt.stream/playlist.m3u8
-#EXTINF:1 ,К1 (256p)
-http://109.68.40.67/life/k1.m3u8
-#EXTINF:1 ,К1 (576p)
-http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
-#EXTINF:1 ,Круг (576p)
-https://cdn1.live-tv.od.ua:8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:1 ,Ланет.TV (486p)
-http://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:1 ,Надия/Новый канал (576p)
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:1 ,Надія (720p)
-https://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:1 ,НТК (1080p)
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:1 ,НТН (576p)
-https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:1 ,Общественное Независимое Телевидение (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:1 ,Объектив 59 (576p)
-https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-#EXTINF:1 ,Одесса (576p) [Not 24/7]
-https://cdn1.live-tv.od.ua:8083/riood/riood-abr/playlist.m3u8
-#EXTINF:1 ,Орбіта ТВ [Not 24/7]
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:1 ,ОТВ (Днепр) (576p)
-http://91.193.128.233:1935/live/otv.stream_576p/playlist.m3u8
-#EXTINF:1 ,Первый городской (Кривой Рог) (720p)
-https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr/playlist.m3u8
-#EXTINF:1 ,Первый Городской (Кривой Рог) (720p)
-https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr/playlist.m3u8
-#EXTINF:1 ,Первый городской (Одесса) (1080p)
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:1 ,Первый Городской (Одесса) (576p)
-http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:1 ,Первый Городской (Одесса) (504p)
-https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
-#EXTINF:1 ,Первый Деловой (720p)
-http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:1 ,Первый Деловой (576p)
-http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-#EXTINF:1 ,Перший Діловий (720p)
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:1 ,Перший Діловий (576p)
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-#EXTINF:1 ,Перший Західний (Львов) (480p)
-http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
-#EXTINF:1 ,Перший незалежний (1080p)  (News)
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:1 ,ПравдаТУТ (720p)
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:1 ,Прямий (720p)
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:1 ,Прямий (576p)
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
-#EXTINF:1 ,Радио Люкс (1080p)
-https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
-#EXTINF:1 ,Репортер (720p) [Not 24/7]
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
-#EXTINF:1 ,Сварожичи (720p)
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:1 ,СК 1 (720p)
-https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/playlist.m3u8
-#EXTINF:1 ,СК 1 (256p)
-https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt240p/playlist.m3u8
-#EXTINF:1 ,СК 1 (480p)
-https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt480p/playlist.m3u8
-#EXTINF:1 ,ТВА (Чернiвцi) (576p)
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:1 ,Тис ТВ (480p) [Not 24/7]
-https://cdn10.live-tv.od.ua:8083/riood/tisod504/playlist.m3u8
-#EXTINF:1 ,ТРК Алекс (576p)
-http://46.46.112.223/live/livestream1.m3u8
-#EXTINF:1 ,ТРК Круг (576p)
-https://cdn1.live-tv.od.ua:8083/krugod/krugod/playlist.m3u8
-#EXTINF:1 ,ТРК Репортер (480p) [Not 24/7]
-https://cdn1.live-tv.od.ua:8083/31chod/31chod-sub/playlist.m3u8
-#EXTINF:1 ,Трофей ТВ (1080p)
-https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
-#EXTINF:1 ,Футбол 1 [Not 24/7]  (Sports)
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:1 ,Херсон Плюс (576p)
-http://46.175.163.130/ks_plus/index.m3u8
-#EXTINF:1 ,Чернівецький промінь (720p)
-https://langate.tv/promin/live_720/index.m3u8
-#EXTINF:1 ,ЧП Инфо (576p)
-http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
-#EXTINF:1 ,ЧП.інфо (576p)
-http://109.68.40.67/life/magnolia.m3u8
-#EXTINF:1 ,Южная Волна (720p)
-https://cdn1.live-tv.od.ua:8083/wave/wave-abr/playlist.m3u8
-#EXTINF:1 ,Южная Волна ТВ (Одесса) (720p)
-https://cdn1.live-tv.od.ua:8083/wave/wave-720/playlist.m3u8
-#EXTINF:1 ,ЯТБ (576p)
-http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:1 ,Інший (720p)
-https://cdn1.live-tv.od.ua:8083/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
+#EXTINF:-1 group-title="Sport",Sky Sports F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 group-title="Sport",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Sport",Vivaro Sport
+http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Sport",Матч ТВ
+http://persik.by/stream/7504/377885/33.m3u8
+#EXTINF:-1 group-title="Sport",Матч ТВ
+http://persik.by/stream/7504/377885/276.m3u8
+#EXTINF:-1 group-title="Sport",Матч ТВ
+http://persik.by/stream/7504/377885/1077.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Арена
+http://persik.by/stream/7504/377885/261.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Игра
+http://persik.by/stream/7504/377885/10270.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Премьер
+http://persik.by/stream/7504/377885/284.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Страна
+http://persik.by/stream/7504/377885/10271.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 1 HD
+http://persik.by/stream/7504/377885/10266.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 2
+http://persik.by/stream/7504/377885/10217.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 2 HD
+http://persik.by/stream/7504/377885/10267.m3u8
 
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="MUSİQİ",TATLISES TV
-http://195.155.98.170:5858/play/a0ac?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="MUSİQİ",NUMBER1 TURK HD
-http://hdlocal.de:8080/Wallas/Wallas/10102?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="MUSİQİ",DREAM TV
-http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33000?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="MUSİQİ",KRAL TV
-http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33014?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="MUSİQİ",KRAL TV
-http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33014?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Cizgi Film",Cartoon Network
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Cartoon Network
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
-
-
-
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1,TRT COCUK
+#EXTGRP:Cizgi Film
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Disney
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Gulli Girl
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Arb Günəş
+http://mfe01.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Cizgi Film",Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Cizgi Film",PLANET COCUK-
-http://hdlocal.de:8080/Wallas/Wallas/9999?checkedby:iptvcat.com
-
-
-#EXTINF:-1,Idman 
-#EXTGRP:Sport
-http://149.255.155.142/Idman/index.m3u8
-
-#EXTINF:-1,Idman 
-#EXTGRP:Azərbaycan kanalları
-http://149.255.155.142/Idman/index.m3u8
-
-#EXTINF:-1, CBC Sport  Az
-#EXTGRP:Sport
-http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
-
-#EXTINF:-1, CBC Sport  Az
-#EXTGRP:Azərbaycan kanalları
-http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
+http://hdlocal.de:8080/Wallas/Wallas/9999
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Cizgi Film",KiDS TURK HD
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
